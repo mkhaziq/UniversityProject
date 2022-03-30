@@ -30,10 +30,7 @@ const About = () => {
             <span>This is a sample wesbite made by @m.khaziq.</span>
           </div>
           <div className="aboutSectionContainer2">
-            <Typography component="h2">Our Brands</Typography>
-            <a href="#" target="blank">
-              <YouTubeIcon className="youtubeSvgIcon" />
-            </a>
+            <Typography component="h2">My Socials</Typography>
 
             <a href="https://instagram.com/m.khaziq" target="blank">
               <InstagramIcon className="instagramSvgIcon" />
