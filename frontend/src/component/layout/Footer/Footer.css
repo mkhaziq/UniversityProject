@@ -71,3 +71,10 @@ footer {
 .rightFooter > a:hover {
   color: #eb4034;
 }
+
+@media screen and (max-width: 600px) {
+  #footer {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+}
